@@ -1,0 +1,146 @@
+{
+  "match_fields": [
+    "date",
+    "donor",
+    "amount"
+  ],
+  "original_rows": 4097,
+  "cleaned_rows": 4075,
+  "removed_rows": 22,
+  "removed_total": "116.11",
+  "documentation": "duplicate-rows.csv (original row numbers, unchanged)",
+  "removed": [
+    {
+      "original_csv_row": 6,
+      "date": "2026-10-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 107,
+      "date": "2026-09-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 212,
+      "date": "2026-08-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 321,
+      "date": "2026-07-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 427,
+      "date": "2026-06-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 535,
+      "date": "2026-05-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 654,
+      "date": "2026-04-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 754,
+      "date": "2026-03-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 854,
+      "date": "2026-02-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1071,
+      "date": "2025-12-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1247,
+      "date": "2025-11-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1400,
+      "date": "2025-10-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1504,
+      "date": "2025-09-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1608,
+      "date": "2025-08-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1712,
+      "date": "2025-07-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1815,
+      "date": "2025-06-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 1924,
+      "date": "2025-05-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 2029,
+      "date": "2025-04-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 2137,
+      "date": "2025-03-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 2250,
+      "date": "2025-02-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 2363,
+      "date": "2025-01-28",
+      "donor": "J Schmidt",
+      "amount": 5.0
+    },
+    {
+      "original_csv_row": 2598,
+      "date": "2020-12-01",
+      "donor": "Allan Ainsworth",
+      "amount": 11.11
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source_file": "UIJP-donations-2016-through-2020.csv",
+  "source_sha256": "35e58bf19414921dc9caddd5081558179aea1191df08cb31ec877e3c58a4f877",
+  "imported_rows": 1628,
+  "source_site_rows": 2469,
+  "retained_site_rows": 2448,
+  "combined_rows": 4075,
+  "original_combined_rows": 4097,
+  "removed_exact_duplicates": 22,
+  "historical_total": "80830.46",
+  "combined_total": "295581.49",
+  "first_date": "2016-12-15",
+  "last_date": "2026-10-31",
+  "years": {
+    "2026": {
+      "rows": 1028,
+      "cents": 9081305
+    },
+    "2025": {
+      "rows": 1420,
+      "cents": 12394909
+    },
+    "2020": {
+      "rows": 1089,
+      "cents": 4144338
+    },
+    "2019": {
+      "rows": 432,
+      "cents": 1714097
+    },
+    "2018": {
+      "rows": 94,
+      "cents": 1075500
+    },
+    "2017": {
+      "rows": 10,
+      "cents": 928000
+    },
+    "2016": {
+      "rows": 2,
+      "cents": 220000
+    }
+  },
+  "missing_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "historical_exact_duplicates_removed": 1,
+  "historical_spacing_changes": [],
+  "policy": "Exact date/name/amount matches consolidated to one record; duplicate-rows.csv preserved. Whitespace normalized; spelling and capitalization preserved. Missing years are not zero giving."
+}
